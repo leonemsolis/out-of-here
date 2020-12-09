@@ -1,5 +1,4 @@
-ii
-licy**
+**Privacy Policy**
 
 Ruslan Yun built the Out of Here game as a Free app. This SERVICE is provided by Ruslan Yun at no cost and is intended for use as is.
 
