@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Users/rusa/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.5/9896d723afaeaae8229546119f9abffac5f8dbc7/gdx-1.5.5.jar" sourcepath="/Users/rusa/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.5/23a5d06da04fd9a381aa225425722facf7de96c1/gdx-1.5.5-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/libs/tween-engine-api-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/libs/tween-engine-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
